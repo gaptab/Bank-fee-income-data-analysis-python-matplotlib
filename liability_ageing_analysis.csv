@@ -1,0 +1,6 @@
+Account,Days_Pending,Amount,Ageing_Bucket
+L1,15,10000,0-30 Days
+L2,45,20000,31-60 Days
+L3,70,15000,61+ Days
+L4,10,5000,0-30 Days
+L5,35,12000,31-60 Days
